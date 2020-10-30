@@ -1,4 +1,9 @@
 Some text
+<<<<<<< Updated upstream
 Pesho
 James 
 Max
+=======
+Stamat
+Ivaylo
+>>>>>>> Stashed changes
